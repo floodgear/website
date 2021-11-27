@@ -33,7 +33,7 @@ a:active {
 
 @font-face {
     font-family: "CONSOLA";
-    src: url("fonts/CONSOLA.otf");
+    src: url("https://github.com/floodgear/website/raw/main/fonts/CONSOLA.otf");
     }
 
 .fg-logo {
