@@ -1,0 +1,88 @@
+/* This is a template copy of a website. */
+
+body {
+	background-color: #0e0e0e;
+	margin: auto;
+	margin-top:40px;
+	font-family: CONSOLA;
+    font-size: 14px;
+	color: #ffffff;
+}
+
+pre {
+    font-family: CONSOLA;
+    font-size: 14px;
+    margin-left: 8px;
+}
+
+a:link {
+    color: rgb(255, 255, 255); text-decoration: none;
+}
+  
+a:visited {
+    color: rgb(255, 255, 255); text-decoration: none;
+}
+  
+a:hover {
+    color: rgb(241, 241, 241); text-decoration: none;
+}
+ 
+a:active {
+    color: rgb(136, 136, 136); text-decoration: none;
+} 
+
+@font-face {
+    font-family: "CONSOLA";
+    src: url("fonts/CONSOLA.otf");
+    }
+
+.fg-logo {
+    color: rgb(255, 255, 255);
+}
+
+.fg-text {
+    margin-left: 40px;
+    width: 1000px;
+}
+
+.kali {
+    margin-left: 0px;
+}
+
+.content-container {
+    width: 1000px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+.arguments {
+    margin-left: 40px;
+    width: 180px;
+    float: left;
+    padding: 0;
+    margin-top: 0%;
+}
+
+.topics {
+    width: 700px;
+    margin-left: 220px;
+    padding: 0;
+}
+
+.content-container2 {
+    width: 1000px;
+    height: 350px;
+    margin: 0;
+    padding: 0;
+}
+
+.tutorials {
+    width: 700px;
+    margin-left: 220px;
+    padding: 0;
+}
+
+.footer {
+    margin-left: 40px;
+}
